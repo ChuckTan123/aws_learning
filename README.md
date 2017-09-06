@@ -9,3 +9,5 @@
   
 ### MXnet with s3
   http://mxnet.io/how_to/s3_integration.html
+
+https://github.com/chrisgundling/yolo_light/blob/master/scripts/net/ops/simple.py
